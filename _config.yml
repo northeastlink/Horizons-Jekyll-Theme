@@ -1,4 +1,4 @@
-name: Horizons
-description: Horizons template for Jekyll
+name: Stop the North East Link
+description: Stop the North East Link from destroying our city
 paginate: 10
-baseurl: '/Horizons-Jekyll-Theme'
+url: "https://northeastlink.github.io"
